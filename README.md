@@ -26,7 +26,7 @@ Caso a sua publicação não apareça no grupo, provavelmente ela infringiu uma 
 
 1- RESPEITO: Tenha cuidado com sua mensagem, veja se ela não vai assediar e/ou desrespeitar alguém. 
 
-2- CONTEÚDO: Poste apenas conteúdo que possua, de alguma forma, relação com o assunto abordado pela comunidade ou alguma ferramenta envolvendo as tecnologias. Assuntos fora do contexto serão deletados e o membro notificado. Havendo persistência, o autor do anúncio será banido deste grupo sem aviso prévio. Exemplos de conteúdo aceitos: Eventos de tecnologia, PHPingas, PHPizzas, Eventos de Tecnologias e ou que de alguma forma tenha a ver com a comunidade(Software Livre, Startup, Empreendedorismo)
+2- CONTEÚDO: Poste apenas conteúdo que possua, de alguma forma, relação com o assunto abordado pela comunidade ou alguma ferramenta envolvendo as tecnologias. Assuntos fora do contexto serão deletados e o membro notificado. Havendo persistência, o autor do anúncio será banido deste grupo sem aviso prévio. Exemplos de conteúdo aceitos: Dúvidas técnicas, dúvidas sobre mercado de trabalho de desenvolvimento, Dicas para desenvolvedores, Eventos de tecnologia, PHPingas, PHPizzas, Eventos de Tecnologias e ou que de alguma forma tenha a ver com a comunidade(Software Livre, Startup, Empreendedorismo)
 
 3- CLAREZA: Preze pela objetividade e clareza nas informações do seu post. 
 
